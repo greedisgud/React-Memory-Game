@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.img {
+  width: 200px;
+}
+
+.app {
+  display: flex;
+  width: 500px;
+  flex-direction: wrap;
+}
